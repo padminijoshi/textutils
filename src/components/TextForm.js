@@ -40,6 +40,8 @@ export default function Textform(props) {
       <button className="btn btn-primary mx-1" onClick={handleLoClick}>Convert to LowerCase</button>
       <button className="btn btn-primary mx-1" onClick={handleReClick}>Reverse text</button>
       <button className="btn btn-primary mx-1" onClick={handleclearClick}>Clear text</button>
+      {/* s<button className="btn btn-primary mx-1" onClick={handleclearClick}>Clear text</button> */}
+
     
       
     </div>
